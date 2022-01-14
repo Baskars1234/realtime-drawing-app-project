@@ -3,6 +3,8 @@
     width: 100%;
     margin: 0;
     box-shadow: 5px 5px 5px grey;
+    font-family: 'Fjalla One', sans-serif;
+   
 }
 
 .note{
@@ -15,7 +17,7 @@
     color: white;
     bottom: 0;
     width: 100%;
-    background-color: blue;
+    background-color: rgb(61, 16, 16);
     line-height: 3;
     text-align: center;
 }
@@ -28,7 +30,7 @@ canvas{
 
 
 body{
-    background-image: url("Sandeep_photo.jpg");
+    background-image: linear-gradient(to right, red , yellow);
     background-position: center;
     background-size: cover;
 }
